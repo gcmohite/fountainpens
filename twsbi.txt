@@ -1,3 +1,7 @@
 Eco
 Diamond 580
 Vac 700
+Swipe
+Diamond Mini
+Vac Mini
+Go
